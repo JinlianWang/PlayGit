@@ -1,4 +1,4 @@
-More here conflict
+More here
 # PlayGit
 #PlayGit2
 #PlayGitEND
