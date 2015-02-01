@@ -26,6 +26,7 @@
 #import <objc/runtime.h>
 
 @implementation AFHTTPRequestOperationLogger
+dakfsaf
 
 + (instancetype)sharedLogger {
     static AFHTTPRequestOperationLogger *_sharedLogger = nil;
